@@ -28,7 +28,7 @@ test:
     - termcolor
 
 about:
-  home: https://pypi.org/project/termcolor/
+  home: https://github.com/termcolor/termcolor
   license: MIT
   license_file: COPYING.txt
   summary: ANSI color formatting for output in terminal
